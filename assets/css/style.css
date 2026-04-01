@@ -108,6 +108,18 @@ article img {
     padding-bottom: 7px;
 }
 
+/* Publications page */
+
+#Publications h2 {
+    font-size: 1.8rem;
+}
+
+li {
+    text-align: justify;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
 /* Footer section */
 
 footer div {
