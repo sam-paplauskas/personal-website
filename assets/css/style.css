@@ -86,6 +86,28 @@ main h2 {
     box-sizing: border-box;
 }
 
+/* Research page */
+
+article h2,
+article figure,
+article figcaption,
+article img {
+    text-align: center;
+}
+
+article p {
+    text-align: justify;
+    line-height: 2;
+    font-size: 1.1rem;
+    padding-top: 7px;
+}
+
+article img {
+    width: 50%;
+    height: auto;
+    padding-bottom: 7px;
+}
+
 /* Footer section */
 
 footer div {
